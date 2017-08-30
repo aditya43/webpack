@@ -1,0 +1,23 @@
+$primary: green;
+
+body {
+    background: $primary;
+    font-family: Consolas;
+}
+
+.msg {
+    background: url('../images/sample.jpg');
+    color: #fff;
+    width: 790px;
+    height: 360px;
+}
+
+// Below two classes will be ommitted if we are using purifycss.
+// That is because we are not using them in our index.html file.
+.one {
+    background: red;
+}
+
+.two {
+    background: green;
+}

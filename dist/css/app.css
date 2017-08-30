@@ -1,0 +1,11 @@
+body {
+  background: green;
+  font-family: Consolas;
+}
+
+.msg {
+  background: url(../images/sample.jpg);
+  color: #fff;
+  width: 790px;
+  height: 360px;
+}
